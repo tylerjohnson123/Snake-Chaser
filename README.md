@@ -1,18 +1,23 @@
 # Snake-Chaser
-Final Project Game: Snake Chaser
+**Final Project Game: Snake Chaser**
 
 The main goals of this project was to create a game in whch a player is jumping from platform to paltform to escape from a snake.
 
-Instruction:
-  Movement:
-      Left Arrow Key: To move left
-      Right Arrow Key: To move right
-      Up Arrow Key: To jump up to the next platform
+**Movement:**
+
+Left Arrow Key: To move left
+
+Right Arrow Key: To move right
+
+Up Arrow Key: To jump up to the next platform
       
-Citation:
-  Miner Sprite: https://pixelartmaker.com/art/9b5b3313d4fb577
-  Snake Sprite: https://www.pixilart.com/art/snake-sprite-d0aa0e58af9b0a5
-  Background image: https://www.redbubble.com/shop/ap/27821328
+**Citation:**
+
+Miner Sprite: https://pixelartmaker.com/art/9b5b3313d4fb577
+
+Snake Sprite: https://www.pixilart.com/art/snake-sprite-d0aa0e58af9b0a5
+
+Background image: https://www.redbubble.com/shop/ap/27821328
 
 During this project I learned quite a bit. Some of the major things including, movement and background. Try to get the player, snake, platforms, and background to change at the same time turned out to be difficult.
 If I could do it again I would have spent less time on the snake character and getting it to chase the player and spend more time refining the overall mecahnics of the game.
