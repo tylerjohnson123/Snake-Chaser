@@ -11,7 +11,7 @@ Right Arrow Key: To move right
 
 Up Arrow Key: To jump up to the next platform
       
-**Citation:**
+**Citation:** (Pretty sure these are free to use)
 
 Miner Sprite: https://pixelartmaker.com/art/9b5b3313d4fb577
 
